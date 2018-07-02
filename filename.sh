@@ -1,6 +1,7 @@
 #!/bin/bash
 
-git commit origin master
+git add README.md
+git commit
 git push
 
 cd ..
